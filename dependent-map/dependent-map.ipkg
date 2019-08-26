@@ -1,0 +1,8 @@
+package dependent-map
+
+sourcedir = lib
+modules   = Data.Map
+
+author     = Jim McStanton
+
+license    = MIT
